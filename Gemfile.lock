@@ -41,3 +41,6 @@ DEPENDENCIES
   activerecord
   pg
   pry
+
+BUNDLED WITH
+   2.0.2
